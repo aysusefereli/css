@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+}
+
+header {
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+input {
+    height: 25px;
+
+}
+
+.main {
+    width: 18px;
+    color: grey;
+}
+
+hr {
+    height: 2px;
+    background-color: grey;
+}
+
+.container {
+    padding: 120px 100px 310px 720px;
+    background-repeat: no-repeat;
+    background-image: url(photoo.jpeg);
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.line {
+    height: 150px;
+    width: 12px;
+    background-color: white;
+}
